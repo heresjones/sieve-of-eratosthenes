@@ -1,4 +1,4 @@
-# sieve-of-eratosthenes-java
+# sieve-of-eratosthenes
 Sieve of Eratosthenes in Java
 
 by Christopher Jones
